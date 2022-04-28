@@ -114,7 +114,7 @@ var Confetti = function () {
   Confetti.prototype.render = function render(now) {
     var progress = this.progress.tick(now);
 
-    this.canvas.width = this.width;
+    this.canvas.width = this.width - 30;
     this.canvas.height = 5000;
 
     for (var i = 0; i < this.length; ++i) {
