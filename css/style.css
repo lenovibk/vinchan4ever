@@ -35097,3 +35097,10 @@ a, a:hover {
         display: none;
     }
 }
+
+#nguoi_dc_moi{
+    font-size: 55px;
+    margin-top: 30px;
+    font-weight: bold;
+    color: blueviolet;
+}
