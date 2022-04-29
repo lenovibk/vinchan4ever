@@ -33139,7 +33139,7 @@ a, a:hover {
 }
 
 .t8-journey-content {
-    margin-top: 18%;
+    margin-top: 18% !important;
     flex: 0 0 100%;
     max-width: 100%;
     position: relative;
@@ -33197,7 +33197,6 @@ a, a:hover {
     padding-right: 2%;
     font-family: var(--font-2);
     color: var(--color-1);
-    white-space: pre-wrap;
 }
 
 .t8-journey-box {
@@ -33435,7 +33434,7 @@ a, a:hover {
 }
 
 .t8-journey-content {
-    margin-top: 18%;
+    margin-top: 18% !important;
     flex: 0 0 100%;
     max-width: 100%;
     position: relative;
@@ -33493,7 +33492,6 @@ a, a:hover {
     padding-right: 2%;
     font-family: var(--font-2);
     color: var(--color-1);
-    white-space: pre-wrap;
 }
 
 .t8-journey-box {
@@ -33657,7 +33655,6 @@ a, a:hover {
     font-family: var(--font-2);
     max-width: 600px;
     overflow-wrap: anywhere;
-    white-space: pre-wrap;
 }
 
 .t8-event-content .home {
@@ -33760,7 +33757,6 @@ a, a:hover {
         color: var(--color-2);
         max-width: 90%;
         overflow-wrap: anywhere;
-        white-space: pre-wrap;
         margin: auto;
     }
 
@@ -33770,7 +33766,6 @@ a, a:hover {
         font-size: 20px;
         font-family: var(--font-2);
         overflow-wrap: anywhere;
-        white-space: pre-wrap;
         margin: auto;
         max-width: 90%;
     }
@@ -35101,10 +35096,4 @@ a, a:hover {
     .contact-decor3 {
         display: none;
     }
-}
-
-
-
-.row>* {
-    margin-top: auto !important;
 }
