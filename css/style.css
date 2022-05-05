@@ -33055,6 +33055,9 @@ a, a:hover {
     max-width: 800px;
     margin: 0 auto;
 }
+.t8-location-top p#nguoi_dc_moi{
+    font-size: 45px;
+}
 
 .journey-icon {
     width: 10%;
@@ -33349,6 +33352,9 @@ a, a:hover {
     color: var(--color-1);
     max-width: 800px;
     margin: 0 auto;
+}
+.t8-location-top p#nguoi_dc_moi{
+    font-size: 40px;
 }
 
 .journey-icon {
@@ -34205,6 +34211,9 @@ a, a:hover {
     .t8-location-top p, .t8-gallery-title p, .t8-journey-title p {
         font-size: 20px;
     }
+    .t8-location-top p#nguoi_dc_moi{
+        font-size: 25px;
+    }
 
     .t8-journey-item {
         margin-bottom: 55px;
@@ -34607,6 +34616,9 @@ a, a:hover {
 
     .t8-location-top p {
         font-size: 20px;
+    }
+    .t8-location-top p#nguoi_dc_moi{
+        font-size: 25px;
     }
 
     .t8-link-text {
@@ -35099,8 +35111,7 @@ a, a:hover {
 }
 
 #nguoi_dc_moi{
-    font-size: 55px;
-    margin-top: 30px;
+    margin-top: 20px;
     font-weight: bold;
     color: blueviolet;
 }

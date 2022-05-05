@@ -115,7 +115,7 @@ var Confetti = function () {
     var progress = this.progress.tick(now);
 
     this.canvas.width = this.width - 30;
-    this.canvas.height = 5000;
+    this.canvas.height = $(".t8-banner").outerHeight();
 
     for (var i = 0; i < this.length; ++i) {
       this.ctx.save();
