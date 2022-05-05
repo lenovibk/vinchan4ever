@@ -307,6 +307,11 @@ var loadList = function(){
     $("#ip_phone").val(obj.sdt || my_default.sdt);
     $(".ten_xung").text(obj.ten_xung || my_default.ten_xung);
     $(".ten_goi").text(jsUcfirst(obj.ten_goi) || jsUcfirst(my_default.ten_goi));
+    $("#show_bank").hide();
+    if(obj.show_bank){
+        $("#show_bank").show();
+    }
+    
 }
 function jsUcfirst(string) 
 {

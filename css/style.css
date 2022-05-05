@@ -35115,3 +35115,6 @@ a, a:hover {
     font-weight: bold;
     color: blueviolet;
 }
+#show_bank{
+    display: none;
+}
