@@ -32475,6 +32475,9 @@ a, a:hover {
     color: var(--color-1);
     max-width: 800px;
 }
+.t8-banner-notified-small {
+    font-size: 28px;
+}
 
 .t8-banner-main {
     max-width: 100%;
@@ -34523,6 +34526,9 @@ a, a:hover {
         margin-bottom: -25px;
         margin-top: 50px;
         font-size: 25px;
+    }
+    .t8-banner-notified-small {
+        font-size: 16px;
     }
 
     .t8-banner-time {
