@@ -294,6 +294,16 @@ var list_data = {
 'Q287':{'hien_thi':'Bạn Quân & Người thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
 'B288':{'hien_thi':'Gia đình anh Công','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'anh'},
 'HN':{'hien_thi':'Anh chị em KIS Hà Nội','loi_nhan':'','ten_xung':'anh chị em','ten_goi':'vợ chồng em'},
+'n290':{'hien_thi':'Bạn Nam & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'n291':{'hien_thi':'Em Phong & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'em'},
+'h292':{'hien_thi':'Bạn Hiệp & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'e293':{'hien_thi':'Em Tuấn & Người Thương','loi_nhan':'','ten_xung':'vợ chồng chị','ten_goi':'em'},
+'h294':{'hien_thi':'Bạn Tuấn & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'h295':{'hien_thi':'Bạn Hoàng & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'p296':{'hien_thi':'Bạn Phong & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'đ297':{'hien_thi':'Bạn Đại & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'A298':{'hien_thi':'Gia đình anh Cường','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'anh'},
+'A299':{'hien_thi':'Gia đình anh Bắc','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'anh'},
 };
 
 $( document ).ready(function() {
