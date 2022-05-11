@@ -293,6 +293,7 @@ var list_data = {
 'A286':{'hien_thi':'Gia đình anh Hậu','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'anh'},
 'Q287':{'hien_thi':'Bạn Quân & Người thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
 'B288':{'hien_thi':'Gia đình anh Công','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'anh'},
+'HN':{'hien_thi':'Anh chị em KIS Hà Nội','loi_nhan':'','ten_xung':'anh chị em','ten_goi':'vợ chồng em'},
 };
 
 $( document ).ready(function() {
