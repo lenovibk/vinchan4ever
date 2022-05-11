@@ -304,6 +304,8 @@ var list_data = {
 'đ297':{'hien_thi':'Bạn Đại & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
 'A298':{'hien_thi':'Gia đình anh Cường','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'anh'},
 'A299':{'hien_thi':'Gia đình anh Bắc','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'anh'},
+'N300':{'hien_thi':'Gia đình bạn Nam','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'N301':{'hien_thi':'Em Nam & người thương','loi_nhan':'','ten_xung':'vợ chồng anh','ten_goi':'em'},
 };
 
 $( document ).ready(function() {
