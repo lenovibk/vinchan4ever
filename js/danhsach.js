@@ -318,6 +318,7 @@ var list_data = {
 'N310':{'hien_thi':'Em Như Ý & Người thương','loi_nhan':'','ten_xung':'vợ chồng chị','ten_goi':'em'},
 'E311':{'hien_thi':'Em Phi & Người Thương','loi_nhan':'','ten_xung':'vợ chồng chị','ten_goi':'em'},
 'M312':{'hien_thi':'Bạn Minh Anh & Người thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'GD':{'hien_thi':'Gia đình ta','loi_nhan':'','ten_xung':'chúng con','ten_goi':'gia đình mình'},
 };
 
 $( document ).ready(function() {
