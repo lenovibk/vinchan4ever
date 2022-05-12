@@ -307,6 +307,17 @@ var list_data = {
 'N300':{'hien_thi':'Gia đình bạn Nam','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
 'N301':{'hien_thi':'Em Nam & người thương','loi_nhan':'','ten_xung':'vợ chồng anh','ten_goi':'em'},
 'C302':{'hien_thi':'Chị Hạnh','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'chị'},
+'C302':{'hien_thi':'Chị Hạnh','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'chị'},
+'E303':{'hien_thi':'Em Hoàng & Người Thương','loi_nhan':'','ten_xung':'vợ chồng chị','ten_goi':'em'},
+'T304':{'hien_thi':'Gia đình Thầy Hoàn','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'thầy'},
+'T305':{'hien_thi':'Bạn Tiến & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'L306':{'hien_thi':'Bạn Liên & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'T307':{'hien_thi':'Bạn Thương & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'H308':{'hien_thi':'Bạn Hoa & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'L309':{'hien_thi':'Bạn Long & Người Thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
+'N310':{'hien_thi':'Em Như Ý & Người thương','loi_nhan':'','ten_xung':'vợ chồng chị','ten_goi':'em'},
+'E311':{'hien_thi':'Em Phi & Người Thương','loi_nhan':'','ten_xung':'vợ chồng chị','ten_goi':'em'},
+'M312':{'hien_thi':'Bạn Minh Anh & Người thương','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
 };
 
 $( document ).ready(function() {
