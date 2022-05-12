@@ -306,6 +306,7 @@ var list_data = {
 'A299':{'hien_thi':'Gia đình anh Bắc','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'anh'},
 'N300':{'hien_thi':'Gia đình bạn Nam','loi_nhan':'','ten_xung':'vợ chồng mình','ten_goi':'bạn'},
 'N301':{'hien_thi':'Em Nam & người thương','loi_nhan':'','ten_xung':'vợ chồng anh','ten_goi':'em'},
+'C302':{'hien_thi':'Chị Hạnh','loi_nhan':'','ten_xung':'vợ chồng em','ten_goi':'chị'},
 };
 
 $( document ).ready(function() {
